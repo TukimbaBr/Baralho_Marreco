@@ -1,0 +1,61 @@
+Bruxa do Crepúsculo
+
+Fada média, neutra e má
+
+Classe De Armadura: 17 (armadura natural)
+
+Pontos De Vida: 82 (15d8 + 15)15d8+15
+
+Velocidade: 30 pés Pairar: 10 pés
+
+FOR
+11 +0
+DES
+14 +2
+CONS
+12 +1
+INT
+17 +3
+SAB
+16 +3
+CAR
+18 +4
+
+Jogadas De Resistência: Int +6, Sab +6
+Perícias: Enganação +7, Intuição +6, Percepção +6
+Sentidos: visão às cegas 18 m, Percepção passiva 16
+Idiomas: Comum, Gigante, Infernal, Silvestre
+
+Classificação Do Desafio: 6
+
+Conjuração Inata. A habilidade de conjuração da bruxa é Carisma (CD de resistência de magia 15).
+Ela pode conjurar inatamente os seguintes feitiços, sem a necessidade de componentes materiais:
+
+À vontade: detectar magia, disfarçar-se
+3/dia cada: sonho, padrão hipnótico, sono (9d8)
+1/dia cada: lendas, vidência
+
+Resistência mágica.
+A bruxa tem vantagem em testes de resistência contra feitiços e outros efeitos mágicos.
+
+Ações
+Multiataque. A bruxa faz dois ataques de Toque do Pesadelo.
+ 
+Garras
+Ataque corpo a corpo com arma: +5 para acertar, alcance 1,5 m, um alvo.
+Acerto: 5 (1d6 + 2)1d6+2corte de dano.
+ 
+Toque do Pesadelo
+Ataque mágico corpo a corpo: +7 para acertar, alcance 1,5 m, uma criatura.
+Acerto: 18 (4d6 + 4)4d6+4dano psíquico.
+Se o alvo estiver inconsciente, ele sofre 10 (3d6) de dano psíquico extra e é amaldiçoado até que a
+bruxa morra ou a maldição seja removida.
+O máximo de pontos de vida da criatura amaldiçoada diminui em 5 (1d10) sempre que ela termina um 
+descanso longo.
+
+Reações
+Devorador de Sonhos
+Quando uma criatura inconsciente que a bruxa pode ver a até 9 metros dela recupera a consciência, a
+bruxa pode forçar a criatura a fazer um teste de resistência de Sabedoria CD 15.
+A menos que o teste seja bem-sucedido, a criatura sofre 11 (2d10) de dano psíquico e a bruxa
+recupera pontos de vida igual à quantidade de dano recebido.
